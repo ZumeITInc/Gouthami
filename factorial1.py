@@ -10,4 +10,4 @@ def factorial(n):
             n -= 1
         return fact
 num = int(input("enter a number: "))
-print("factprail of", num ,"is", factorial(num))
+print("factorial of", num ,"is", factorial(num))
